@@ -1,0 +1,2 @@
+qscintilla2.lib filter=lfs diff=lfs merge=lfs -text
+qscintilla2.dll filter=lfs diff=lfs merge=lfs -text
